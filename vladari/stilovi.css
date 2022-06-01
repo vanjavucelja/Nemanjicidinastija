@@ -38,3 +38,11 @@ h1{
             color: black;
             padding: 40px;
             text-align: center; }
+            footer{ padding: 10px;
+                float: left;
+                width: 100%;
+                text-align: center;
+                
+                background-color: rgb(235, 173, 42);
+                
+            }
